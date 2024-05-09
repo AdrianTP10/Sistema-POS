@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08B38C29-08A3-4E43-9547-00CBC28A1E90}|POS.Infrastructure\\POS.Infrastructure.csproj|c:\\users\\adria\\onedrive\\documentos\\github\\sistema pos\\pos\\pos.infrastructure\\extensions\\injectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B38C29-08A3-4E43-9547-00CBC28A1E90}|POS.Infrastructure\\POS.Infrastructure.csproj|solutionrelative:pos.infrastructure\\extensions\\injectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B38C29-08A3-4E43-9547-00CBC28A1E90}|POS.Infrastructure\\POS.Infrastructure.csproj|c:\\users\\adria\\onedrive\\documentos\\github\\sistema pos\\pos\\pos.infrastructure\\persistences\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B38C29-08A3-4E43-9547-00CBC28A1E90}|POS.Infrastructure\\POS.Infrastructure.csproj|solutionrelative:pos.infrastructure\\persistences\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C167F6-5561-4531-BB51-D1D400F23650}|POS.Api\\POS.Api.csproj|c:\\users\\adria\\onedrive\\documentos\\github\\sistema pos\\pos\\pos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C167F6-5561-4531-BB51-D1D400F23650}|POS.Api\\POS.Api.csproj|solutionrelative:pos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F27FE56-34A3-4C7A-A589-2D1BAD96EB2C}|POS.Application\\POS.Application.csproj|c:\\users\\adria\\onedrive\\documentos\\github\\sistema pos\\pos\\pos.application\\extensions\\injectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F27FE56-34A3-4C7A-A589-2D1BAD96EB2C}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\extensions\\injectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F27FE56-34A3-4C7A-A589-2D1BAD96EB2C}|POS.Application\\POS.Application.csproj|c:\\users\\adria\\onedrive\\documentos\\github\\sistema pos\\pos\\pos.application\\services\\categoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F27FE56-34A3-4C7A-A589-2D1BAD96EB2C}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\services\\categoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B38C29-08A3-4E43-9547-00CBC28A1E90}|POS.Infrastructure\\POS.Infrastructure.csproj|c:\\users\\adria\\onedrive\\documentos\\github\\sistema pos\\pos\\pos.infrastructure\\persistences\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B38C29-08A3-4E43-9547-00CBC28A1E90}|POS.Infrastructure\\POS.Infrastructure.csproj|solutionrelative:pos.infrastructure\\persistences\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F27FE56-34A3-4C7A-A589-2D1BAD96EB2C}|POS.Application\\POS.Application.csproj|c:\\users\\adria\\onedrive\\documentos\\github\\sistema pos\\pos\\pos.application\\mappers\\categorymappingsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F27FE56-34A3-4C7A-A589-2D1BAD96EB2C}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\mappers\\categorymappingsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B38C29-08A3-4E43-9547-00CBC28A1E90}|POS.Infrastructure\\POS.Infrastructure.csproj|c:\\users\\adria\\onedrive\\documentos\\github\\sistema pos\\pos\\pos.infrastructure\\commons\\bases\\request\\basepaginationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B38C29-08A3-4E43-9547-00CBC28A1E90}|POS.Infrastructure\\POS.Infrastructure.csproj|solutionrelative:pos.infrastructure\\commons\\bases\\request\\basepaginationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B38C29-08A3-4E43-9547-00CBC28A1E90}|POS.Infrastructure\\POS.Infrastructure.csproj|c:\\users\\adria\\onedrive\\documentos\\github\\sistema pos\\pos\\pos.infrastructure\\persistences\\contexts\\configurations\\branchofficeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B38C29-08A3-4E43-9547-00CBC28A1E90}|POS.Infrastructure\\POS.Infrastructure.csproj|solutionrelative:pos.infrastructure\\persistences\\contexts\\configurations\\branchofficeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C167F6-5561-4531-BB51-D1D400F23650}|POS.Api\\POS.Api.csproj|c:\\users\\adria\\onedrive\\documentos\\github\\sistema pos\\pos\\pos.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C167F6-5561-4531-BB51-D1D400F23650}|POS.Api\\POS.Api.csproj|solutionrelative:pos.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F27FE56-34A3-4C7A-A589-2D1BAD96EB2C}|POS.Application\\POS.Application.csproj|c:\\users\\adria\\onedrive\\documentos\\github\\sistema pos\\pos\\pos.application\\dtos\\response\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F27FE56-34A3-4C7A-A589-2D1BAD96EB2C}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\dtos\\response\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D4C690-7C0A-4E39-B30C-898A20510E73}|POS.Domain\\POS.Domain.csproj|c:\\users\\adria\\onedrive\\documentos\\github\\sistema pos\\pos\\pos.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D4C690-7C0A-4E39-B30C-898A20510E73}|POS.Domain\\POS.Domain.csproj|solutionrelative:pos.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F27FE56-34A3-4C7A-A589-2D1BAD96EB2C}|POS.Application\\POS.Application.csproj|c:\\users\\adria\\onedrive\\documentos\\github\\sistema pos\\pos\\pos.application\\commons\\bases\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F27FE56-34A3-4C7A-A589-2D1BAD96EB2C}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\commons\\bases\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F27FE56-34A3-4C7A-A589-2D1BAD96EB2C}|POS.Application\\POS.Application.csproj|c:\\users\\adria\\onedrive\\documentos\\github\\sistema pos\\pos\\pos.application\\validators\\category\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F27FE56-34A3-4C7A-A589-2D1BAD96EB2C}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\validators\\category\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B38C29-08A3-4E43-9547-00CBC28A1E90}|POS.Infrastructure\\POS.Infrastructure.csproj|c:\\users\\adria\\onedrive\\documentos\\github\\sistema pos\\pos\\pos.infrastructure\\helpers\\queryablehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B38C29-08A3-4E43-9547-00CBC28A1E90}|POS.Infrastructure\\POS.Infrastructure.csproj|solutionrelative:pos.infrastructure\\helpers\\queryablehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B38C29-08A3-4E43-9547-00CBC28A1E90}|POS.Infrastructure\\POS.Infrastructure.csproj|c:\\users\\adria\\onedrive\\documentos\\github\\sistema pos\\pos\\pos.infrastructure\\persistences\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B38C29-08A3-4E43-9547-00CBC28A1E90}|POS.Infrastructure\\POS.Infrastructure.csproj|solutionrelative:pos.infrastructure\\persistences\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InjectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Infrastructure\\Extensions\\InjectionExtensions.cs",
+              "RelativeDocumentMoniker": "POS.Infrastructure\\Extensions\\InjectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Infrastructure\\Extensions\\InjectionExtensions.cs",
+              "RelativeToolTip": "POS.Infrastructure\\Extensions\\InjectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T20:34:39.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Infrastructure\\Persistences\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "POS.Infrastructure\\Persistences\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Infrastructure\\Persistences\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "POS.Infrastructure\\Persistences\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-28T00:47:20.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Api\\Program.cs",
+              "RelativeDocumentMoniker": "POS.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Api\\Program.cs",
+              "RelativeToolTip": "POS.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-15T18:40:47.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Infrastructure\\Persistences\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "POS.Infrastructure\\Persistences\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Infrastructure\\Persistences\\Repositories\\Repository.cs",
+              "RelativeToolTip": "POS.Infrastructure\\Persistences\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-27T23:51:48.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InjectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Application\\Extensions\\InjectionExtensions.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Extensions\\InjectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Application\\Extensions\\InjectionExtensions.cs",
+              "RelativeToolTip": "POS.Application\\Extensions\\InjectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T18:55:07.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasePaginationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Infrastructure\\Commons\\Bases\\Request\\BasePaginationRequest.cs",
+              "RelativeDocumentMoniker": "POS.Infrastructure\\Commons\\Bases\\Request\\BasePaginationRequest.cs",
+              "ToolTip": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Infrastructure\\Commons\\Bases\\Request\\BasePaginationRequest.cs",
+              "RelativeToolTip": "POS.Infrastructure\\Commons\\Bases\\Request\\BasePaginationRequest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-27T19:50:00.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Application\\Services\\CategoryApplication.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Services\\CategoryApplication.cs",
+              "ToolTip": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Application\\Services\\CategoryApplication.cs",
+              "RelativeToolTip": "POS.Application\\Services\\CategoryApplication.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-30T21:12:40.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryMappingsProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Application\\Mappers\\CategoryMappingsProfile.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Mappers\\CategoryMappingsProfile.cs",
+              "ToolTip": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Application\\Mappers\\CategoryMappingsProfile.cs",
+              "RelativeToolTip": "POS.Application\\Mappers\\CategoryMappingsProfile.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-30T21:54:43.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BranchOfficeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Infrastructure\\Persistences\\Contexts\\Configurations\\BranchOfficeConfiguration.cs",
+              "RelativeDocumentMoniker": "POS.Infrastructure\\Persistences\\Contexts\\Configurations\\BranchOfficeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Infrastructure\\Persistences\\Contexts\\Configurations\\BranchOfficeConfiguration.cs",
+              "RelativeToolTip": "POS.Infrastructure\\Persistences\\Contexts\\Configurations\\BranchOfficeConfiguration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-01T01:31:03.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "POS.Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "POS.Api\\Controllers\\CategoryController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-31T03:45:05.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Application\\Dtos\\Response\\CategoryResponseDto.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Dtos\\Response\\CategoryResponseDto.cs",
+              "ToolTip": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Application\\Dtos\\Response\\CategoryResponseDto.cs",
+              "RelativeToolTip": "POS.Application\\Dtos\\Response\\CategoryResponseDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-31T02:29:55.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "POS.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "POS.Domain\\Entities\\Category.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-31T02:29:50.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Application\\Commons\\Bases\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Commons\\Bases\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Application\\Commons\\Bases\\BaseResponse.cs",
+              "RelativeToolTip": "POS.Application\\Commons\\Bases\\BaseResponse.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-30T20:59:14.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Application\\Validators\\Category\\CategoryValidator.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Validators\\Category\\CategoryValidator.cs",
+              "ToolTip": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Application\\Validators\\Category\\CategoryValidator.cs",
+              "RelativeToolTip": "POS.Application\\Validators\\Category\\CategoryValidator.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-28T04:33:27.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QueryableHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Infrastructure\\Helpers\\QueryableHelper.cs",
+              "RelativeDocumentMoniker": "POS.Infrastructure\\Helpers\\QueryableHelper.cs",
+              "ToolTip": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Infrastructure\\Helpers\\QueryableHelper.cs",
+              "RelativeToolTip": "POS.Infrastructure\\Helpers\\QueryableHelper.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-27T19:58:57.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Infrastructure\\Persistences\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "POS.Infrastructure\\Persistences\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\Sistema POS\\POS\\POS.Infrastructure\\Persistences\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "POS.Infrastructure\\Persistences\\Interfaces\\IRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-27T23:50:59.277Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

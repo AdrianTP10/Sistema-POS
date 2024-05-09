@@ -1,0 +1,17 @@
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Infrastructure.deps.json
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Infrastructure.dll
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Infrastructure.pdb
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.AssemblyInfo.cs
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.dll
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\refint\POS.Infrastructure.dll
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.pdb
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\ref\POS.Infrastructure.dll
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Domain.dll
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Utilities.dll
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Domain.pdb
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Utilities.pdb
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Adria\OneDrive\Documentos\GitHub\Sistema POS\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.csproj.CopyComplete
